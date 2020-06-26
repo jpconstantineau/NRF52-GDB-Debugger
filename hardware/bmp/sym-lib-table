@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LOGIC-TXS0108EPWR_TSSOP20_)(type Legacy)(uri ${KIPRJMOD}/Library/Schematic/LOGIC-TXS0108EPWR_TSSOP20_.lib)(options "")(descr ""))
+)
