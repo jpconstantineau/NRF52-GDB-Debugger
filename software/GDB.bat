@@ -16,7 +16,4 @@ if exist %bmpprefix% (
     @echo NOT Found arm-none-eabi-gdb.exe
 )
 
-echo %bmpprefix%  
-
-%bmpprefix% native\blackmagic_dfu.hex --batch -ex "target extended-remote \\.\%1" -ex "mon tpwr enable"
-%bmpprefix% native\blackmagic_dfu.hex --batch -ex "target extended-remote \\.\%1" -ex "mon tpwr enable" -ex "mon swdp_scan" -ex "att 1" -ex "load  " -ex "monitor tpwr disable"
+%bmpprefix%  
