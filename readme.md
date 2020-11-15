@@ -1,4 +1,4 @@
-#NRF52-GDB-DEBUGGER
+# NRF52-GDB-DEBUGGER
 
 ## Hardware
 
