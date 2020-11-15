@@ -12,7 +12,7 @@ Hardware is compatible with the Version 1 of the [Black Magic Probe](https://git
 * Supports 1.8V up to 3.3V targets (TXS0108E level shifter)
 * Can provide 3.3V to the target (Mosfet switch)
 * 10 pin 0.1" header compatible with the standard Arm Cortex SWD header, including the [TC2050](https://www.tag-connect.com/product/tc2050-idc-nl-10-pin-no-legs-cable-with-ribbon-connector)
-* 4 pin 0.1" SWD header, compatible with the BlueMicro840 and BlueMacro840 SWD pads.
+* 4 pin 0.1" SWD header, compatible with the BlueMicro840 and BlueMacro840 SWD pads (No need for extra cables to flash bootloader to these boards).
 * USB-C Connector
 
 
