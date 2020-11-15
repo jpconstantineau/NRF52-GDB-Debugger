@@ -13,6 +13,7 @@ Hardware is compatible with the Version 1 of the [Black Magic Probe](https://git
 * Can provide 3.3V to the target (Mosfet switch)
 * 10 pin 0.1" header compatible with the standard Arm Cortex SWD header, including the [TC2050](https://www.tag-connect.com/product/tc2050-idc-nl-10-pin-no-legs-cable-with-ribbon-connector)
 * 4 pin 0.1" SWD header, compatible with the BlueMicro840 and BlueMacro840 SWD pads.
+* USB-C Connector
 
 
 ## Firmware
