@@ -25,7 +25,7 @@ On Windows, you may need [Zadig](https://github.com/pbatard/libwdi/releases/down
 
 As a starting point, have a look [here](https://bluetun.serverbox.ch/2020/01/10/flashing-the-nrf52840-with-a-blackmagic-probe-swd-jtag-programmer/)
 
-The [Community Add-on to the Adafruit_nRF52_Arduino Board Support Package](https://github.com/jpconstantineau/Community_nRF52_Arduino) has included the Black Magic Probe to the Arduino IDE so that it can be used to program the bootloader.
+The [Community Add-on to the Adafruit_nRF52_Arduino Board Support Package](https://github.com/jpconstantineau/Community_nRF52_Arduino) has included the Black Magic Probe to the Arduino IDE so that it can be used to program the bootloader. See it in action [here](https://youtu.be/hIclx-_i-jQ)
 
 
 
